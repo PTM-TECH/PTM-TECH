@@ -1,9 +1,20 @@
-<div align="center">
-  <h1>👋 Hey There!</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=I'm+a+Full+Stack+Developer;Code+is+my+craft%2C+problems+are+my+playground!" alt="Typing SVG" />
-</div>
+# Greetings!
 
-<br/>
+I am a Full Stack Developer and Technology Leader who views code as a craft and complex problems as a playground. As the Founder and Principal Architect of Pawatech Systems, I specialize in building scalable web ecosystems, high-converting SEO strategies, and robust SaaS architectures from the ground up. I bridge the gap between business vision and high-performance technical execution.
+
+---
+
+## Featured Experience & Projects
+
+### 🌐 Pawatech Systems
+* **Role:** Founder & Principal Engineer
+* **Type:** Web Development & SEO Agency
+* **Description:** Directing technical strategy, system architecture, and advanced search engine optimization frameworks. Leading the end-to-end delivery of high-visibility, lightning-fast web applications and custom SaaS platforms for a global client base.
+
+### 🛠️ BoraPOS
+* **Role:** Lead Full Stack Developer / Architect
+* **Status:** 🟢 Actively Developing
+* **Description:** A comprehensive SaaS software engineered to optimize point-of-sale operations, inventory tracking, and business analytics. Built using high-performance modern frameworks to deliver real-time data accuracy and cross-platform reliability.
 
 ---
 
@@ -63,7 +74,7 @@
 
 ### 🎨 Design Tools
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://shields.io) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
